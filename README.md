@@ -1,5 +1,7 @@
 # Orchestration at scale(s)
 
+[![Join the chat at https://gitter.im/BretFisher/docker-orchestration-workshop](https://badges.gitter.im/BretFisher/docker-orchestration-workshop.svg)](https://gitter.im/BretFisher/docker-orchestration-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the material for the "Docker orchestration workshop"
 written and delivered by Jérôme Petazzoni (and possibly others)
 at multiple conferences and events like:
